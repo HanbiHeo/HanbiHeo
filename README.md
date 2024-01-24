@@ -30,7 +30,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PANG2OPPA&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=PANG2OPPA&theme=tokyonight&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HanbiHeo&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PANG2OPPA&theme=nord_dark)
