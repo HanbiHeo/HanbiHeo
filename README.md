@@ -33,5 +33,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=HanbiHeo&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PANG2OPPA&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hanbi&theme=nord_dark)
 </div>
