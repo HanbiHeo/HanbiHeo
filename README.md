@@ -27,7 +27,7 @@
   <br>
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PANG2OPPA&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HANBI&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=HanbiHeo&theme=tokyonight&show_icons=true" width="42%" />
