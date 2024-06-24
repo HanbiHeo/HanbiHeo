@@ -1,6 +1,3 @@
-<div align=center> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HEOHANBI&fontSize=80" />
-
  <div>👋Tech Stack👋</div>
 <br>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
